@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @west1nk3
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: gamolin.nv@gmail.com
